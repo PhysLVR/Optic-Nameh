@@ -1,6 +1,7 @@
 # Optic-Nameh
 
-** a simple UI Front for Optics Course of CFU **
+**a simple UI Front for Optics Course of CFU**
+> 
 ![Status](https://img.shields.io/badge/Status-Alpha-orange)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
