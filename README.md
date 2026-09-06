@@ -17,9 +17,9 @@
 ## نحوه اجرا
 از آنجا که پروژه بر پایه HTML است، نیازی به بیلد یا نصب پکیج نیست:
 1. مخزن را کلون یا دانلود کنید:
-   ```bash
-   git clone https://github.com/[YourUsername]/[YourRepoName].git
-   ```
+```bash
+git clone https://github.com/[YourUsername]/[YourRepoName].git
+```
 2. فایل `index.html` را مستقیماً در مرورگر خود باز کنید.
 
 ## 📂 ساختار فعلی
