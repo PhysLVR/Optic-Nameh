@@ -24,7 +24,7 @@ git clone https://github.com/[YourUsername]/[YourRepoName].git
 
 ## ساختار فعلی
 ```text
-├── OpticNameh.html      # صفحه اصلی
+├── OpticNameh.html
 ```
 
 ## قدم‌های بعدی (به سمت Beta)
